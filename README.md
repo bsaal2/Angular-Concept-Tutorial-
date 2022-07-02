@@ -130,9 +130,11 @@ including routing, form management, client server commuincation etc
 108. How do you manually bootstrap an application?
 109. What is the precedence between pipe and ternary operators?
 110. What is a provider?
+111. NgContainer and Ngtemplate
 
 ## References
 
 1. [Top Interview Questions](https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions)
 2. [Angular Interview Questions: Github](https://github.com/sudheerj/angular-interview-questions)
-
+3. [Dynamic Components](https://indepth.dev/posts/1054/here-is-what-you-need-to-know-about-dynamic-components-in-angular)
+4. [Module Details](https://indepth.dev/posts/1056/avoiding-common-confusions-with-modules-in-angular)
