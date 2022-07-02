@@ -20,6 +20,6 @@ export class AppComponent {
     // this.rxjsService.testSubject();
     // this.rxjsService.testBehaviourSubject();
     // this.rxjsService.testReplaySubject();
-    this.rxjsService.testAsyncSubject();
+    // this.rxjsService.testAsyncSubject();
   }
 }

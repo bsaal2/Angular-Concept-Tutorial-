@@ -13,7 +13,7 @@ import { RxjsModule } from './rxjs/rxjs.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    // RxjsModule
+    RxjsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
