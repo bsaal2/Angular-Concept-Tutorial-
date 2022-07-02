@@ -15,3 +15,25 @@ Reactive Extenstion Library for Javascript
 > Subject: is equivalent to an EventEmitter, and the only way of multicasting a value or event to multiple Observers.
 
 > Schedulers: are centralized dispatchers to control concurrency, allowing us to coordinate when computation happens on e.g. setTimeout or requestAnimationFrame or others.
+
+## Concepts
+
+1. Observables
+2. Observers
+3. Operators
+4. Subscription
+5. Subjects, Behaviour Subjects, Replay Subject, Async Subject, Void Subject
+6. Scheduler
+7. Reactive Programming
+8. Imperative vs Reactive Programming
+9. Differnces between Observables and Promises
+10. Cold Observable vs Hot Observable 
+11. SwitchMap
+12. mergeMap
+13. concatMap
+14. exhaustMap
+
+
+## References
+
+1. [Interview Questions Javatpoint](https://www.javatpoint.com/rxjs-interview-questions)
